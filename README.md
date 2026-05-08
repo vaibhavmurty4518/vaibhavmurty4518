@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-5K-6c63ff?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavmurty4518&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/badge/FOLLOWERS-3.67K-00cfff?style=for-the-badge&labelColor=0d1117)](https://github.com/vaibhavmurty4518)
+[![GitHub followers](https://img.shields.io/github/followers/vaibhavmurty4518?style=for-the-badge&color=00cfff&labelColor=0d1117)](https://github.com/vaibhavmurty4518)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaibhav%20Murty)
 &nbsp;
